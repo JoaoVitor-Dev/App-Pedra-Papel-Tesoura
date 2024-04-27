@@ -49,6 +49,7 @@
             android:layout_height="wrap_content"
             android:text="Pedra"
                 android:backgroundTint="@color/blue_btn"
+                android:textColor="@color/white"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             />
@@ -57,6 +58,7 @@
             android:layout_height="wrap_content"
             android:text="Papel"
                 android:backgroundTint="@color/blue_btn"
+                android:textColor="@color/white"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             />
@@ -65,6 +67,7 @@
             android:layout_height="wrap_content"
             android:text="Tesoura"
                 android:backgroundTint="@color/blue_btn"
+                android:textColor="@color/white"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             />
